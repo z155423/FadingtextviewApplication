@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         String[] texts = {"Eric","very","happy"};
         FadingTextView FTV = (FadingTextView) findViewById(R.id.fadingTextView);
         FTV.setTexts(texts);
-
+        FTV.setTimeout(1);
     }
 }

@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:height="64dp"
         app:texts="@array/examples"
-        app:timeout="500"
+
         tools:layout_editor_absoluteX="8dp"
         tools:layout_editor_absoluteY="0dp" />
 
